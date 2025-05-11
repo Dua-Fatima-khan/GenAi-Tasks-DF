@@ -2,7 +2,7 @@
 **By Dua Fatima**
 
 ## My Google Badge
-![Google Badege](C:\Users\Lenovo\Desktop\GENAI-TASK\What is Generative AI\Badge.jpeg)
+![Google Badege](Badge.jpeg)
 
 ---
 ## Introduction
