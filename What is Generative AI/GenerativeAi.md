@@ -1,4 +1,4 @@
-# What I Learned About Generative AI  
+# What is Generative AI  
 **By Dua Fatima**
 
 ## My Google Badge
